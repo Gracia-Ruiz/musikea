@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto+Condensed:wght@300&display=swap');
+
 * {
-  font-family: 'Quantico', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 h1, h2, h3, .h1, .h2, .h3 {
-  font-family: 'Audiowide', cursive;
+  font-family: 'Indie Flower', cursive;
 }
 
 body {
